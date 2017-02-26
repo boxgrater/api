@@ -1,0 +1,14 @@
+{
+    "name": "boxgrater/api",
+    "description": "BoxGrater API Base Application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BoxGrater",
+            "email": "boxgrater@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
